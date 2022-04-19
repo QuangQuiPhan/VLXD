@@ -1,0 +1,9 @@
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\bin\Release\DAL.dll
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\bin\Release\DAL.pdb
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\bin\Release\DTO.dll
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\bin\Release\DTO.pdb
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\obj\Release\DAL.dll
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DAL\obj\Release\DAL.pdb

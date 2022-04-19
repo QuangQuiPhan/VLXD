@@ -1,0 +1,6 @@
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DTO\bin\Debug\DTO.dll
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DTO\bin\Debug\DTO.pdb
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DTO\obj\Debug\DTO.dll
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DTO\obj\Debug\DTO.pdb
+D:\DoAnMH\HK1-21-22-CongNghePhanMem-19DTH1D-PhanQuangQui-1911547798\CNPM-PhanQuangQui-1911547798\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
